@@ -1,0 +1,13 @@
+C:\work\Трусов Андрей\aquarium\bin\Debug\netcoreapp3.1\aquarium.exe
+C:\work\Трусов Андрей\aquarium\bin\Debug\netcoreapp3.1\aquarium.deps.json
+C:\work\Трусов Андрей\aquarium\bin\Debug\netcoreapp3.1\aquarium.runtimeconfig.json
+C:\work\Трусов Андрей\aquarium\bin\Debug\netcoreapp3.1\aquarium.runtimeconfig.dev.json
+C:\work\Трусов Андрей\aquarium\bin\Debug\netcoreapp3.1\aquarium.dll
+C:\work\Трусов Андрей\aquarium\bin\Debug\netcoreapp3.1\aquarium.pdb
+C:\work\Трусов Андрей\aquarium\obj\Debug\netcoreapp3.1\aquarium.csprojAssemblyReference.cache
+C:\work\Трусов Андрей\aquarium\obj\Debug\netcoreapp3.1\aquarium.AssemblyInfoInputs.cache
+C:\work\Трусов Андрей\aquarium\obj\Debug\netcoreapp3.1\aquarium.AssemblyInfo.cs
+C:\work\Трусов Андрей\aquarium\obj\Debug\netcoreapp3.1\aquarium.csproj.CoreCompileInputs.cache
+C:\work\Трусов Андрей\aquarium\obj\Debug\netcoreapp3.1\aquarium.dll
+C:\work\Трусов Андрей\aquarium\obj\Debug\netcoreapp3.1\aquarium.pdb
+C:\work\Трусов Андрей\aquarium\obj\Debug\netcoreapp3.1\aquarium.genruntimeconfig.cache
